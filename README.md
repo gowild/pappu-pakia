@@ -1,5 +1,8 @@
 # Pappu Pakia
 
+This is a Version by GoWild SummerSchool with custom images!
+
+
 ![Pappu Pakia](http://i.imgur.com/zYD37.png)
 
 This HTML5 Game (Pappu Pakia) has been happily made for the
