@@ -1,6 +1,6 @@
 # Pappu Pakia
 
-This is a Version by GoWild SummerSchool with custom images!
+This is a Version by GoWild SummerSchool with really cool custom images!
 
 
 ![Pappu Pakia](http://i.imgur.com/zYD37.png)
